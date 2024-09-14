@@ -33,7 +33,7 @@ const SmallSidebar = () => {
                   className="nav-link"
                   onClick={toggleSidebar}
                   // will discuss in a second
-                  end
+                  end 
                 >
                   <span className="icon">{icon}</span>
                   {text}
